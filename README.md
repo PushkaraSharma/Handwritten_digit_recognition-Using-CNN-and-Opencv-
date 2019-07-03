@@ -27,5 +27,10 @@ and each digit from the image is segmented and feeded to trained model and then 
 * Accuracy :- 0.94
 * Loss :- 0.044138
 
-## How TO Run
+## HOW TO RUN:-
+       * As the model is being trained already so there is no need to run digits_recognition_model.ipynb file 
+       * Just run digitsCNN.py file and upload the required image
+       * Install python 3.7
+       * pip install all other required libraries  
+
 
